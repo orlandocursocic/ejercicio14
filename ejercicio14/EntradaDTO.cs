@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ejercicio14
 {
-    public class Class1
+    public class EntradaDTO
     {
+        public long id { get; set; }
     }
 }
